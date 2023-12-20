@@ -87,7 +87,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "2222.BWvD9gh5-Dcb.wOrkErs.DEv",
+        "server_name": "worker-sibgbox.gameplayman68.workers.dev",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -117,7 +117,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "Bee.OnlyclOudflarE.Workers.DEv",
+        "server_name": "worker-sibgbox.gameplayman68.workers.dev",
         "utls": {
           "enabled": true,
           "fingerprint": "randomized"
@@ -132,7 +132,7 @@
         "path": "/",
         "type": "ws"
       },
-      "uuid": "71e6dde6-8ba9-4bed-8904-1f01c4fc803d",
+      "uuid": "7cd6f4ec-bc16-484c-ae07-5b4abaf56b9b",
       "type": "vless",
       "domain_strategy": "",
       "tag": "worker 2️⃣"
@@ -147,7 +147,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "Bee.OnlyclOudflarE.Workers.DEv",
+        "server_name": "worker-sibgbox.gameplayman68.workers.dev",
         "utls": {
           "enabled": true,
           "fingerprint": "randomized"
@@ -176,7 +176,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "2222.BWvD9gh5-Dcb.wOrkErs.DEv",
+        "server_name": "worker-sibgbox.gameplayman68.workers.dev",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -191,7 +191,7 @@
         "path": "/",
         "type": "ws"
       },
-      "uuid": "6c00e3f1-b0ec-425b-a5b8-3f786a50e402",
+      "uuid": "7cd6f4ec-bc16-484c-ae07-5b4abaf56b9b",
       "type": "vless",
       "domain_strategy": "",
       "tag": "worker 4️⃣"
@@ -206,7 +206,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "Bee.OnlyclOudflarE.Workers.DEv",
+        "server_name": "worker-sibgbox.gameplayman68.workers.dev",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -220,7 +220,7 @@
         "path": "/",
         "type": "ws"
       },
-      "uuid": "71e6dde6-8ba9-4bed-8904-1f01c4fc803d",
+      "uuid": "7cd6f4ec-bc16-484c-ae07-5b4abaf56b9b",
       "type": "vless",
       "domain_strategy": "",
       "tag": "worker 5️⃣"
